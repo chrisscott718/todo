@@ -14,6 +14,7 @@
     "axios": "^0.16.1",
     "express": "^4.15.2",
     "material-components-web": "^0.13.0",
+    "moment": "^2.18.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0"
