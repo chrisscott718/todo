@@ -5,7 +5,7 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 var TodoApp = require('TodoApp');
 
 // app css
-require('style!css!sass!applicationStyles')
+require('style!css!sass!applicationStyles');
 $(document).foundation();
 
 ReactDOM.render(
